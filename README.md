@@ -7,4 +7,8 @@ First repository for test
 2. git show <tagname>
 3. git tag -d <tagname>
 3. git tag -a <tagname> -m "string"
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> dev
